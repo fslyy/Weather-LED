@@ -26,9 +26,11 @@ const char MAIN_page[] PROGMEM = R"=====(
 		<p>Click a button to switch to the mentioned Mode</p>
 
 		<!-- Links that change the URL -->
-		<a href="/snow">snow</a>
-		<a href="/rain">rain</a>
 		<a href="/clear">clear</a>
+		<a href="/clouds">clouds</a>
+		<a href="/rain">rain</a>
+		<a href="/thunderstorm">thunderstorm</a>
+		<a href="/snow">snow</a>
 		<a href="/scraper">scraper</a>
 		<a href="/off">off</a>
 
